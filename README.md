@@ -1,2 +1,2 @@
-# email-spam-classifier-new
-End to end code for the email spam classifier project
+
+A machine learning project to classify SMS messages as spam or not spam.
